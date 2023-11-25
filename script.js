@@ -1,1 +1,0 @@
-const findTheMostRepeatedLetter = require('@kala4/letter-counter')
